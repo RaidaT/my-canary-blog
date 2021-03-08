@@ -1,4 +1,4 @@
-# my-canary-blog
+# my-canary-blog:
 
 This is a simple front-end web application developed to practice on my React.js skills. Node.js and Git Bash terminals were also used. I followed a LinkedIn Learning-tutorial during March 2021 to create this blog. The blog only contains random content taken from the Internet. The corresponding back-end you can find under: RaidaT/my-canary-blog-backend.
 
