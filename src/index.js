@@ -1,3 +1,4 @@
+import 'whatwg-fetch';   // should be the first line, available on all browsers(?)
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
